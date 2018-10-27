@@ -1,0 +1,19 @@
+{
+  "name": "webscraper-casperjs",
+  "version": "1.0.0",
+  "description": "A demo application to scrape data using casperjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "casperjs"
+  ],
+  "author": "ssahu",
+  "license": "ISC",
+  "dependencies": {
+    "casperjs": "^1.1.4"
+  }
+}
