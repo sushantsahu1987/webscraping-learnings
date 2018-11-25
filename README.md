@@ -2,6 +2,12 @@
 
 A search based product review engine that crawls information from Amazon &amp; Flipkart
 
+### Prototypes:
+      
+      1. dilertscraper
+      2. webscraper-casperjs
+      3. webscraper-puppeteer
+
 ### Links:
 
       1. Sentiment Analysis
