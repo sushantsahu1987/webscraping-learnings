@@ -1,4 +1,4 @@
-# aschanium-product-comparator
+# webscraping-learnings
 
 A search based product review engine that crawls information from Amazon &amp; Flipkart
 
